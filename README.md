@@ -3,7 +3,7 @@
 # Hi there, I'm Abrar Abir! 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3595F7&center=true&vCenter=true&width=600&lines=STEM+Enthusiast;Programmer;Roboticist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=200&color=3595F7&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Researcher;Roboticist;Designer" alt="Typing SVG"/>
 </a>
 
 <br/>
