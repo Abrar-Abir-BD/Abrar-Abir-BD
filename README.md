@@ -67,9 +67,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/emtenankabir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emtenankabir&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emtenankabir&layout=compact&theme=radical"/>
+  <a href="https://github.com/Abrar-Abir-BD">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abrar-Abir-BD&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar-Abir-BD&layout=compact&theme=radical"/>
   </a>
 </div>
 
@@ -102,14 +102,11 @@
 
 ## 📢 Community & Leadership
 
-### 🚀 *Co-founder & CTO @ SAPH.Ai*
+### 🚀 *Founder & CEO @ SAPH.Ai*
 > Leading robotics & coding teams to address rural/urban challenges. We translate research into reliable technology and have secured seed funding for field implementation.
 
-### 👨‍🏫 *Alumni Mentor @ Bangladesh Robot Olympiad (BdRO)*
+### 👨‍🏫 *Academic Mentor & R&D Intern @ International Robot Olympiad, Bangladesh*
 > Returned as an alumni guide to mentor genius minds and national teams preparing for the International Robot Olympiad, providing real-time guidance on robot building.
-
-### 🏕 *Executive Member (Media & Publication Secretary) @ DRMC Adventure & Tour Club*
-> Managed communications, social media, and publications. Organized the "1st DRMC International Adventure Odyssey 2024".
 
 ---
 
