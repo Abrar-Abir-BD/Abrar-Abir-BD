@@ -32,7 +32,7 @@ As the *Co-founder & CTO of SAPH.Ai* and an *International Robot Olympiad Silver
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=(your-github-username)&theme=flat&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Abrar-Abir-BD&theme=flat&no-frame=true&column=7&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -87,9 +87,9 @@ As the *Co-founder & CTO of SAPH.Ai* and an *International Robot Olympiad Silver
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/(your-github-username)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=(your-github-username)&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=(your-github-username)&layout=compact&theme=radical"/>
+  <a href="https://github.com/Abrar-Abir-BD">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abrar-Abir-BD&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar-Abir-BD&layout=compact&theme=radical"/>
   </a>
 </div>
 
@@ -130,9 +130,9 @@ As the *Co-founder & CTO of SAPH.Ai* and an *International Robot Olympiad Silver
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=(your-github-username)&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abrar-Abir-BD&theme=react-dark" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=(your-github-username)&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abrar-Abir-BD&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
