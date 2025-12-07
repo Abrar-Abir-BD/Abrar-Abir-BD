@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hi there, I'm Abrar Abir! 👋
+# Hey It's Abrar Abir! 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=200&color=3595F7&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Researcher;Roboticist;Designer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=200&color=3595F7&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Researcher;Roboticist;Designer;Public+Speaker" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 I am a STEM enthusiast 🇧🇩, merging technical expertise with creative problem-solving. My journey is defined by a transition from learning to leadership, transforming research into practical technologies that address critical rural and urban challenges.
 
-As the *Co-founder & CTO of SAPH.Ai* and an *International Robot Olympiad Silver Medalist*, I specialize in building autonomous systems for environmental sustainability. Beyond engineering, I am deeply committed to mentoring the next generation of innovators.
+As the *Founder of SAPH.Ai* and an *International Robot Olympiad Silver Medalist*, I specialize in building autonomous systems for environmental sustainability. Beyond engineering, I am deeply committed to mentoring the next generation of innovators.
 
 <br/>
 
