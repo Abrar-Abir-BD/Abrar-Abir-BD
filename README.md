@@ -32,204 +32,102 @@
 </div>
 
 ---
-
-
-
 ## 🛠 Tech Stack & Tools
-
-
 
 <div align="center">
 
-
-
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
-
-
 <br/>
-
-
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-
 <img src="https://img.shields.io/badge/YOLO-FFFF00?style=for-the-badge&logo=yolo&logoColor=black&labelColor=black" />
-
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 
-
-
 <br/>
-
-
 
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stm32&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Espressif-ESP32-323330?style=for-the-badge&logo=espressif&logoColor=white" />
-
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-
 <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
-
 <img src="https://img.shields.io/badge/NVIDIA-Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
-
-
 <br/>
-
-
 
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-
 <img src="https://img.shields.io/badge/SolidWorks-%23E02020.svg?style=for-the-badge&logo=solidworks&logoColor=white" />
-
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-
 <img src="https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Simulink-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
-
-
 
 <br/>
 
-
-
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Code::Blocks-41ad48?style=for-the-badge&logo=codeblocks&logoColor=white" />
-
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-
 
 </div>
 
-
-
 ---
-
-
 
 ## 📊 GitHub Stats
 
-
-
 <div align="center">
-
-  <a href="https://github.com/Abrar-Abir-BD">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abrar-Abir-BD&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar-Abir-BD&layout=compact&theme=radical"/>
-
+  <a href="https://github.com/emtenankabir">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emtenankabir&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emtenankabir&layout=compact&theme=radical"/>
   </a>
-
 </div>
 
-
-
 ---
-
-
 
 ## 🤖 Featured Projects
 
-
-
 | Project | Description | Tech/Tools |
-
 | :--- | :--- | :--- |
-
 | *AI-Based Sewage Maintenance Robot* | 🚜 An autonomous rover with a mechanical arm and gas sensors (MQ135) to replace dangerous manual sewage cleaning. | C++, IoT, Sensors, Python, OpenCV, TensorFlow |
-
 | *Flexi-Grow: Soft Robot for Exploration* | 🌿 A soft-growing robot inspired by vines, designed for search & rescue in narrow terrains.| ESP32, ESP-NOW, FPV Camera, Soft Robotics, Python, Textile Eng, Pneumatics |
-
 | *ML-Based Water Contamination Detection* | 💧 Low-cost ML-powered device detecting micro-pollutants with ~90% accuracy using SSD MobileNet V2. | TensorFlow Lite, Python, PyTorch, OpenCV |
 
-
-
 ---
-
-
 
 ## 🎖 Honors & Achievements
 
-
-
 | Event | Award |
-
 | :--- | :--- |
-
 | *International Robot Olympiad (IRO) 2025, South Korea* | 🥈 Silver (Creative) & 🥉 Bronze (Movie) |
-
 | *WRO Asia-Pacific Championship 2025, Philippines* | 🌏 Startup Idea Award |
-
 | *Codeavour 5.0 International 2024* | 🇧🇩 National Champion |
-
 | *Bangladesh Stockholm Junior Water Prize 2024* | 💧 Runner-up & Seed Funding |
 
-
-
 ---
-
-
 
 ## 📢 Community & Leadership
 
-
-
 ### 🚀 *Co-founder & CTO @ SAPH.Ai*
-
 > Leading robotics & coding teams to address rural/urban challenges. We translate research into reliable technology and have secured seed funding for field implementation.
 
-
-
 ### 👨‍🏫 *Alumni Mentor @ Bangladesh Robot Olympiad (BdRO)*
-
 > Returned as an alumni guide to mentor genius minds and national teams preparing for the International Robot Olympiad, providing real-time guidance on robot building.
 
-
-
 ### 🏕 *Executive Member (Media & Publication Secretary) @ DRMC Adventure & Tour Club*
-
 > Managed communications, social media, and publications. Organized the "1st DRMC International Adventure Odyssey 2024".
-
-
 
 ---
 
-
-
 <div align="center">
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abrar-Abir-BD&theme=react-dark" alt="Activity Graph" />
-
 </div>
-
-
 
 <div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=Abrar-Abir-BD&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=Abrar-Abir-BD&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abrar-Abir-BD&label=System%20Access%20Count&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+  
