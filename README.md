@@ -1,43 +1,138 @@
-# Hi there, I'm [Your Name]! 👋
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3595F7&center=true&vCenter=true&width=600&lines=Your+Role+1;Your+Role+2;Your+Role+3)](https://git.io/typing-svg)
+# Hi there, I'm (Your Name)! 👋
 
-I am a **[Your Title/Profession]** 🌍, merging technical expertise with creative problem-solving. My journey is defined by a transition from learning to leadership, transforming ideas into practical technologies.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3595F7&center=true&vCenter=true&width=600&lines=STEM+Enthusiast;Programmer;Roboticist" alt="Typing SVG" />
+</a>
 
-As the **[Current Role] at [Company/Project]**, I specialize in [Your Specialization]. Beyond engineering, I am deeply committed to [Your Passion/Hobby].
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn URL])
-[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]([Your X URL])
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([Your Facebook URL])
+I am a STEM enthusiast 🇧🇩, merging technical expertise with creative problem-solving. My journey is defined by a transition from learning to leadership, transforming research into practical technologies that address critical rural and urban challenges.
+
+As the *Co-founder & CTO of SAPH.Ai* and an *International Robot Olympiad Silver Medalist*, I specialize in building autonomous systems for environmental sustainability. Beyond engineering, I am deeply committed to mentoring the next generation of innovators.
+
+<br/>
+
+<a href="(Your LinkedIn URL)" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="(Your X URL)" target="_blank">
+<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)">
+</a>
+<a href="(Your Facebook URL)" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+</a>
+
+</div>
 
 ---
 
 ## 🏆 Trophy Case
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=[your-github-username]&theme=flat&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=(your-github-username)&theme=flat&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+  </a>
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-FFFF00?style=for-the-badge&logo=yolo&logoColor=black&labelColor=black" />
+<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stm32&logoColor=white" />
+<img src="https://img.shields.io/badge/Espressif-ESP32-323330?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/SolidWorks-%23E02020.svg?style=for-the-badge&logo=solidworks&logoColor=white" />
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Simulink-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Code::Blocks-41ad48?style=for-the-badge&logo=codeblocks&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</div>
 
 ---
 
-## 💼 Experience & Volunteering
+## 📊 GitHub Stats
 
-### 🏢 **[Role Name] @ [Organization/Company]**
-> [Write a short sentence about what you did here, your impact, or achievements.]
-
-### 🏕️ **[Role Name] @ [Club/Community]**
-> [Write a short sentence about your responsibilities or events you organized.]
+<div align="center">
+  <a href="https://github.com/(your-github-username)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=(your-github-username)&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=(your-github-username)&layout=compact&theme=radical"/>
+  </a>
+</div>
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[your-github-username]&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🤖 Featured Projects
 
-[![Profile Views](https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20Views&color=blue&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
+| Project | Description | Tech/Tools |
+| :--- | :--- | :--- |
+| *AI-Based Sewage Maintenance Robot* | 🚜 An autonomous rover with a mechanical arm and gas sensors (MQ135) to replace dangerous manual sewage cleaning. | C++, IoT, Sensors, Python, OpenCV, TensorFlow |
+| *Flexi-Grow: Soft Robot for Exploration* | 🌿 A soft-growing robot inspired by vines, designed for search & rescue in narrow terrains.| ESP32, ESP-NOW, FPV Camera, Soft Robotics, Python, Textile Eng, Pneumatics |
+| *ML-Based Water Contamination Detection* | 💧 Low-cost ML-powered device detecting micro-pollutants with ~90% accuracy using SSD MobileNet V2. | TensorFlow Lite, Python, PyTorch, OpenCV |
+
+---
+
+## 🎖 Honors & Achievements
+
+| Event | Award |
+| :--- | :--- |
+| *International Robot Olympiad (IRO) 2025, South Korea* | 🥈 Silver (Creative) & 🥉 Bronze (Movie) |
+| *WRO Asia-Pacific Championship 2025, Philippines* | 🌏 Startup Idea Award |
+| *Codeavour 5.0 International 2024* | 🇧🇩 National Champion |
+| *Bangladesh Stockholm Junior Water Prize 2024* | 💧 Runner-up & Seed Funding |
+
+---
+
+## 📢 Community & Leadership
+
+### 🚀 *Co-founder & CTO @ SAPH.Ai*
+> Leading robotics & coding teams to address rural/urban challenges. We translate research into reliable technology and have secured seed funding for field implementation.
+
+### 👨‍🏫 *Alumni Mentor @ Bangladesh Robot Olympiad (BdRO)*
+> Returned as an alumni guide to mentor genius minds and national teams preparing for the International Robot Olympiad, providing real-time guidance on robot building.
+
+### 🏕 *Executive Member (Media & Publication Secretary) @ DRMC Adventure & Tour Club*
+> Managed communications, social media, and publications. Organized the "1st DRMC International Adventure Odyssey 2024".
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=(your-github-username)&theme=react-dark" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=(your-github-username)&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</div>
