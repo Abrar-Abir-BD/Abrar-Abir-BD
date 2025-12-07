@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=170&section=header&text=ABRAR%20ABRAR&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=170&section=header&text=ABRAR%20ABIR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=50"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=3595F7&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Researcher;Roboticist;Designer;Public+Speaker" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=3595F7&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Researcher;Roboticist;Designer;Public+Speaker" alt="Typing SVG"/>
 </a>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=F05033&center=true&vCenter=true&width=800&lines=Merging+technical+expertise+with+creative+problem-solving.;Founder+of+SAPH.Ai+%7C+International+Robot+Olympiad+Silver+Medalist.;Building+autonomous+systems+for+environmental+sustainability.;Transforming+research+into+practical+technologies+for+rural+impact.;Mentoring+the+next+generation+of+innovators+in+STEM." alt="Typing SVG"/>
@@ -12,10 +12,6 @@
 
 <a href="(Your LinkedIn URL)" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="(Your X URL)" target="_blank">
-<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)">
-</a>
 <a href="(Your Facebook URL)" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
 </a>
@@ -45,7 +41,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-FFFF00?style=for-the-badge&logo=yolo&logoColor=black&labelColor=black" />
+<img src="https://img.shields.io/badge/Ultralytics-YOLO-0066FF?style=for-the-badge&logo=yolo&logoColor=white" />
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 
@@ -62,17 +58,7 @@
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/SolidWorks-%23E02020.svg?style=for-the-badge&logo=solidworks&logoColor=white" />
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/Simulink-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Code::Blocks-41ad48?style=for-the-badge&logo=codeblocks&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/MathWorks-MATLAB_Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 
 </div>
 
@@ -103,10 +89,14 @@
 
 | Event | Award |
 | :--- | :--- |
-| *International Robot Olympiad (IRO) 2025, South Korea* | 🥈 Silver (Creative) & 🥉 Bronze (Movie) |
-| *WRO Asia-Pacific Championship 2025, Philippines* | 🌏 Startup Idea Award |
-| *Codeavour 5.0 International 2024* | 🇧🇩 National Champion |
-| *Bangladesh Stockholm Junior Water Prize 2024* | 💧 Runner-up & Seed Funding |
+| *International Robot Olympiad (IRO), South Korea* | 🥈 Silver Medal 🥉 Bronze Medal |
+| *World Robot Olympiad (WRO) OC, Philippines* | 🌏 Best Startup Award |
+| *Government ICT Division* | 🏆 Honor of Recognition Award |
+| *Stockholm Junior Water Prize* | 💧 Seed Funding Winner |
+| *Codeavour 5.0 International* | 🥇 Gold Medal |
+| *Codeavour 6.0 International* | 🥇 Gold Medal |
+| *National STEM Olympiad* | 🏆 Runner Up |
+
 
 ---
 
