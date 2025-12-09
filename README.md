@@ -26,7 +26,7 @@
 
 ---
 
-<h2 align="center">🛠 Technology Stack</h2>
+<h2 align="center">🛠 Tech & Tools</h2>
 
 <div align="center">
 <table>
@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
     </td>
   </tr>
   <tr>
@@ -65,11 +65,9 @@
 </table>
 </div>
 
-<br/>
 
 ---
-
-## 🤖 Featured Projects
+<h2 align="center">🤖 Featured Projects</h2>
 
 | Project | Description | Tech/Tools |
 | :--- | :--- | :--- |
@@ -78,8 +76,7 @@
 | *ML-Based Water Contamination Detection* | 💧 Low-cost ML-powered device detecting micro-pollutants with ~90% accuracy using SSD MobileNet V2. | TensorFlow Lite, Python, PyTorch, OpenCV |
 
 ---
-
-## 🎖 Honors & Achievements
+<h2 align="center">🎖 Honors & Achievements</h2>
 
 | Event | Award |
 | :--- | :--- |
@@ -92,8 +89,7 @@
 | *National STEM Olympiad* | 🏆 Runner Up |
 
 ---
-
-## 📢 Community & Leadership
+<h2 align="center">📢 Community & Leadership</h2>
 
 ### 🚀 *Founder & CEO @ SAPH.Ai*
 > Leading robotics & coding teams to address rural/urban challenges. We translate research into reliable technology and have secured seed funding for field implementation.
