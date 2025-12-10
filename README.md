@@ -70,7 +70,7 @@
 <h2 align="center">🤖 Featured Projects & Repositories </h2>
 
 | Preview | Project | Description | Tech/Tools |
-| :---: | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: |
 | <img src="assets/drain_clean.png" width="200"> | *AI Assisted Drainage & Sewage Maintenance Robot* | 🚜 An autonomous robot with a mechanical arm, AI camera, and sensors to replace dangerous manual drainage cleaning. | C++, IoT, Sensors, Python, OpenCV, TensorFlow |
 | <img src="assets/flexi_grow.png" width="200"> | *Flexi-Grow: AI-Enabled Soft Robot for Exploration* | 🌿 A textile-based soft-growing robot, driven by AI and pneumatics, designed for search & rescue in narrow terrains. | ESP32, ESP-NOW, FPV Camera, Soft Robotics, Python, Textile Eng |
 | <img src="assets/water_detect.png" width="200"> | *Low-cost ML-Based Water Contamination Detection* | 💧 Low-cost ML-powered device detecting micro-pollutants with ~90% accuracy using SSD MobileNet V2. | TensorFlow Lite, Python, PyTorch, OpenCV |
@@ -78,15 +78,15 @@
 ---
 <h2 align="center">🎖 Honors & Achievements</h2>
 
-| Event | Award |
-| :--- | :--- |
-| *International Robot Olympiad (IRO), South Korea* | 🥈 Silver Medal 🥉 Bronze Medal |
-| *World Robot Olympiad (WRO) OC, Philippines* | 🌏 Best Startup Award |
-| *Government ICT Division* | 🏆 Honor of Recognition Award |
-| *Stockholm Junior Water Prize* | 💧 Seed Funding Winner |
-| *Codeavour 5.0 International* | 🥇 Gold Medal |
-| *Codeavour 6.0 International* | 🥇 Gold Medal |
-| *National STEM Olympiad* | 🏆 Runner Up |
+| Event | Award | Location |
+| :---: | :---: | :---: |
+| *International Robot Olympiad (IRO)* | 🥈 Silver Medal 🥉 Bronze Medal | South Korea |
+| *World Robot Olympiad (WRO) OC* | 🌏 Best Startup Award | Philippines |
+| *Government ICT Division* | 🏆 Honor of Recognition Award | Bangladesh |
+| *Stockholm Junior Water Prize* | 💧 Seed Funding Winner | Based on Sweden |
+| *Codeavour 5.0 International* | 🥇 Gold Medal | Invited in Dubai |
+| *Codeavour 6.0 International* | 🥇 Gold Medal | Invited in Qatar |
+| *National STEM Olympiad* | 🏆 Runner Up | Bangladesh |
 
 ---
 <h2 align="center">📢 Community & Leadership</h2>
