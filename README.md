@@ -9,7 +9,7 @@
 <a href="YOUR_LINKEDIN_URL" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+<a href="mailto:abirabrar688@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 <a href="YOUR_FACEBOOK_URL" target="_blank">
