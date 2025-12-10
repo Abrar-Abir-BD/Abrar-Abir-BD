@@ -67,7 +67,7 @@
 
 
 ---
-<h2 align="center">🤖 Featured Projects & Repositories </h2>
+<h2 align="center">🤖 Projects & Repositories </h2>
 
 | Preview | Project | Description | Tech/Tools |
 | :---: | :---: | :---: | :---: |
