@@ -71,9 +71,9 @@
 
 | Preview | Project | Description | Tech/Tools |
 | :---: | :--- | :--- | :--- |
-| <img src="PATH_TO_IMAGE_1.jpg" width="100"> | *AI Assisted Drainage & Sewage Maintenance Robot* | 🚜 An autonomous robot with a mechanical arm, AI camera, and sensors to replace dangerous manual drainage cleaning. | C++, IoT, Sensors, Python, OpenCV, TensorFlow |
-| <img src="PATH_TO_IMAGE_2.jpg" width="100"> | *Flexi-Grow: AI-Enabled Soft Robot for Exploration* | 🌿 A textile-based soft-growing robot, driven by AI and pneumatics, designed for search & rescue in narrow terrains. | ESP32, ESP-NOW, FPV Camera, Soft Robotics, Python, Textile Eng |
-| <img src="PATH_TO_IMAGE_3.jpg" width="100"> | *Low-cost ML-Based Water Contamination Detection* | 💧 Low-cost ML-powered device detecting micro-pollutants with ~90% accuracy using SSD MobileNet V2. | TensorFlow Lite, Python, PyTorch, OpenCV |
+| <img src="assets/drain_clean.png" width="200"> | *AI Assisted Drainage & Sewage Maintenance Robot* | 🚜 An autonomous robot with a mechanical arm, AI camera, and sensors to replace dangerous manual drainage cleaning. | C++, IoT, Sensors, Python, OpenCV, TensorFlow |
+| <img src="assets/flexi_grow.png" width="200"> | *Flexi-Grow: AI-Enabled Soft Robot for Exploration* | 🌿 A textile-based soft-growing robot, driven by AI and pneumatics, designed for search & rescue in narrow terrains. | ESP32, ESP-NOW, FPV Camera, Soft Robotics, Python, Textile Eng |
+| <img src="assets/water_detect.png" width="200"> | *Low-cost ML-Based Water Contamination Detection* | 💧 Low-cost ML-powered device detecting micro-pollutants with ~90% accuracy using SSD MobileNet V2. | TensorFlow Lite, Python, PyTorch, OpenCV |
 
 ---
 <h2 align="center">🎖 Honors & Achievements</h2>
